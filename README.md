@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Package renamed `@agrzes/pouch-rx`. This repository is no longer maintained. Please use the new package instead.
+
 # Ouch Rx [![Build Status](https://travis-ci.org/AGrzes/ouch-rx.svg?branch=master)](https://travis-ci.org/AGrzes/ouch-rx) [![Coverage Status](https://coveralls.io/repos/github/AGrzes/ouch-rx/badge.svg?branch=master)](https://coveralls.io/github/AGrzes/ouch-rx?branch=master)
 Library wrapping [PouchDB](https://pouchdb.com/) with [rxjs](https://rxjs-dev.firebaseapp.com/) observables.
 
